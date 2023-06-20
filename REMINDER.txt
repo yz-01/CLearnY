@@ -1,0 +1,2 @@
+"FYP" is our database.
+Landing Page is the first page for our system.
